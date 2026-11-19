@@ -78,7 +78,7 @@ VALUES
 ```
 
 **Dokumentasi:**
-![Data barang](screenshots/04-data-barang.png)
+![Data barang](gambar/gambar2.png)
 
 ## 7. Membuat Program CRUD
 
