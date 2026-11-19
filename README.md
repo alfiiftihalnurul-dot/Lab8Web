@@ -95,7 +95,7 @@ Konfigurasi database:
 - Database: latihan1
 
 **Dokumentasi:**
-![Koneksi database](screenshots/05-koneksi.png)
+![Koneksi database](gambar/gambar3.png)
 
 ### B. Menampilkan Data (Read)
 
@@ -104,7 +104,7 @@ File `index.php` digunakan untuk menampilkan seluruh data barang dari database m
 Data ditampilkan dalam bentuk tabel yang memuat gambar, nama barang, kategori, harga beli, harga jual, stok, dan aksi.
 
 **Dokumentasi:**
-![Data barang sebelum CSS](screenshots/06-index-sebelum-css.png)
+![Data barang sebelum CSS](gambar/gambar4.png)
 
 ### C. Menambah Data (Create)
 
@@ -119,7 +119,7 @@ File `tambah.php` digunakan untuk menambahkan data barang baru melalui formulir 
 Data yang dimasukkan akan disimpan ke database menggunakan perintah INSERT.
 
 **Dokumentasi:**
-![Tambah barang](screenshots/07-tambah.png)
+![Tambah barang](gambar/gambar5.png)
 
 ### D. Mengubah Data (Update)
 
@@ -128,7 +128,7 @@ File `ubah.php` digunakan untuk mengubah informasi barang yang sudah tersimpan d
 Data barang diambil berdasarkan `id_barang`, kemudian ditampilkan dalam formulir untuk diedit dan disimpan kembali menggunakan perintah UPDATE.
 
 **Dokumentasi:**
-![Ubah barang](screenshots/08-ubah.png)
+![Ubah barang](gambar/gambar6.png)
 
 ### E. Menghapus Data (Delete)
 
@@ -137,7 +137,7 @@ File `hapus.php` digunakan untuk menghapus data barang berdasarkan `id_barang` m
 Setelah proses penghapusan berhasil, pengguna diarahkan kembali ke halaman utama.
 
 **Dokumentasi:**
-![Hapus barang](screenshots/09-hapus.png)
+![Hapus barang](gambar/gambar7.png)
 
 ## 8. Membuat Tampilan dengan CSS
 
@@ -152,7 +152,7 @@ Pengaturan CSS meliputi:
 - Desain tombol dan tautan.
 
 **Dokumentasi:**
-![Tampilan setelah CSS](screenshots/10-index-setelah-css.png)
+![Tampilan setelah CSS](gambar/gambar4.png)
 
 ## 9. Hasil Praktikum
 
