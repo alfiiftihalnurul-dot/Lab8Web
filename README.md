@@ -152,7 +152,7 @@ Pengaturan CSS meliputi:
 - Desain tombol dan tautan.
 
 **Dokumentasi:**
-![Tampilan setelah CSS](gambar/gambar4.png)
+![Tampilan setelah CSS](gambar/gambar8.png)
 
 ## 9. Hasil Praktikum
 
